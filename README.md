@@ -1,7 +1,5 @@
 # 1AEL0245_COD_Grupo3_202610
-Proyecto final - Circuitos Lógicos Digitales
-
-## Acerca del proyecto
+## Proyecto final - Circuitos Lógicos Digitales
 Sistema contador digital de 4 dígitos multiplexado implementado 
 en VHDL sobre FPGA, desarrollado en Intel Quartus Prime 18.1.
 
